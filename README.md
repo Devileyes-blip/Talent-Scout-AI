@@ -146,9 +146,3 @@ METADATA: {
 
 
 The UI parses this silently and updates progress indicators.
-
-This is not shown to the user — it's internal only.
-
-📜 License
-
-This project has no license declared by the author; add one if needed.
